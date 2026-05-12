@@ -1,16 +1,91 @@
-## Hi there 👋
+# 👋 Olá, eu sou Gabryel Alexandre
 
-<!--
-**gabryel-QA/gabryel-QA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 QA Engineer | Test Automation | Performance Testing
 
-Here are some ideas to get you started:
+Sou apaixonado por transformar qualidade em diferencial competitivo.  
+Atuo como QA Engineer com foco em automação de testes, performance e confiabilidade de aplicações.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho experiência no desenvolvimento de soluções de automação do zero, pipelines CI/CD para testes de carga e melhoria contínua de processos de qualidade.
+
+---
+
+## 💻 Tecnologias & Ferramentas
+
+### 🔹 Test Automation
+- Selenium
+- Cypress
+- Playwright
+- Cucumber
+- MockMvc
+- Smockin
+- Postman
+
+### 🔹 Performance & Load Testing
+- K6
+
+### 🔹 Linguagens & Ferramentas
+- TypeScript
+- JavaScript
+- AWS Lambda
+- GitLab CI
+
+### 🔹 Metodologias
+- Scrum
+- Kanban
+
+---
+
+## 📌 Experiência
+
+### 🏢 RPE
+**QA Engineer Pleno**  
+📅 Set 2025 - Atualmente
+
+### 🏢 Klok Tech
+**QA Engineer Pleno**  
+📅 Set 2023 - Set 2025
+
+#### Principais projetos:
+- Desenvolvimento de solução de automação de testes para novos produtos.
+- Criação de pipeline CI/CD para testes de carga, stress e performance.
+- Redução significativa do esforço manual da equipe de QA.
+- Melhoria da confiabilidade e escalabilidade do principal produto da empresa.
+- Desenvolvimento de automações E2E utilizando Playwright.
+
+**Tecnologias utilizadas:**  
+`TypeScript` `AWS Lambda` `K6` `GitLab CI` `JavaScript` `Playwright`
+
+---
+
+## 🎓 Formação
+
+🎓 Análise e Desenvolvimento de Sistemas  
+Instituto Federal da Paraíba (IFPB)
+
+---
+
+## 📜 Certificações
+- Google Cloud Essentials
+
+---
+
+## 🌎 Contato
+
+📧 gabryel.qa@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/gabryel-qa-engineer
+
+---
+
+## 📈 Atualmente focado em:
+- Automação de testes
+- Performance Testing
+- CI/CD
+- Qualidade escalável
+- Testes não funcionais
+- Automação E2E com Playwright
+
+---
+
+## ⚡ Frase
+
+> "Qualidade não é apenas encontrar bugs, é garantir confiança."
