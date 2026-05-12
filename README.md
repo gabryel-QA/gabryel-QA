@@ -1,97 +1,66 @@
-# 👋 Olá, eu sou Gabryel Alexandre
+# 👾 Gabryel Alexandre
 
-## 🚀 QA Engineer | Test Automation | Performance Testing
+<div align="center">
 
-Sou apaixonado por transformar qualidade em diferencial competitivo.  
-Atuo como QA Engineer com foco em automação de testes, performance e confiabilidade de aplicações.
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=FF00FF&center=true&vCenter=true&width=700&lines=QA+Engineer;Test+Automation+Specialist;Performance+Testing+with+K6;Playwright+%7C+Cypress+%7C+Selenium" />
 
-Tenho experiência no desenvolvimento de soluções de automação do zero, pipelines CI/CD para testes de carga e melhoria contínua de processos de qualidade.
-
----
-
-## 💻 Tecnologias & Ferramentas
-
-### 🔹 Test Automation
-- Selenium
-- Cypress
-- Playwright
-- Cucumber
-- MockMvc
-- Smockin
-- Postman
-
-### 🔹 Performance & Load Testing
-- K6
-
-### 🔹 Linguagens & Ferramentas
-- TypeScript
-- JavaScript
-- AWS Lambda
-- GitLab CI
-
-### 🔹 Metodologias
-- Scrum
-- Kanban
+</div>
 
 ---
 
-## 📌 Experiência
+# ⚡ Sobre mim
 
-### 🏢 RPE
-**QA Engineer Pleno**  
-📅 Set 2025 - Atualmente
-
-### 🏢 Klok Tech
-**QA Engineer Pleno**  
-📅 Set 2023 - Set 2025
-
-#### Principais projetos:
-- Desenvolvimento de solução de automação de testes para novos produtos.
-- Criação de pipeline CI/CD para testes de carga, stress e performance.
-- Redução significativa do esforço manual da equipe de QA.
-- Melhoria da confiabilidade e escalabilidade do principal produto da empresa.
-- Desenvolvimento de automações E2E utilizando Playwright.
-
-**Tecnologias utilizadas:**  
-`TypeScript` `AWS Lambda` `K6` `GitLab CI` `JavaScript` `Playwright`
+💀 QA Engineer focado em automação de testes, performance e confiabilidade.  
+🚀 Especializado em testes E2E, pipelines CI/CD e testes de carga.  
+🧠 Apaixonado por criar soluções escaláveis e eficientes.
 
 ---
 
-## 🎓 Formação
+# 🛠 Tech Stack
 
-🎓 Análise e Desenvolvimento de Sistemas  
-Instituto Federal da Paraíba (IFPB)
+<div align="center">
 
----
+![Playwright](https://img.shields.io/badge/Playwright-ff00ff?style=for-the-badge&logo=playwright&logoColor=black)
+![Cypress](https://img.shields.io/badge/Cypress-00ffff?style=for-the-badge&logo=cypress&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium-39ff14?style=for-the-badge&logo=selenium&logoColor=black)
+![K6](https://img.shields.io/badge/K6-ff0055?style=for-the-badge&logo=k6&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-ff6600?style=for-the-badge&logo=postman&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-00bfff?style=for-the-badge&logo=typescript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffee00?style=for-the-badge&logo=javascript&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-ff9900?style=for-the-badge&logo=amazonaws&logoColor=black)
 
-## 📜 Certificações
-- Google Cloud Essentials
-
----
-
-## 🌎 Contato
-
-📧 gabryel.qa@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/gabryel-qa-engineer
+</div>
 
 ---
 
-## 📈 Atualmente focado em:
-- Automação de testes
-- Performance Testing
-- CI/CD
-- Qualidade escalável
-- Testes não funcionais
-- Automação E2E com Playwright
+# 📊 Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
+
+![Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=radical&hide_border=true&background=0D1117)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 🌐 Contato
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grabryel-QA)](https://github.com/gabryel-QA/github-readme-stats)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff00ff?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/gabryel-qa-engineer)
+
+[![Gmail](https://img.shields.io/badge/Gmail-00ffff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:gabryel.qa@gmail.com)
+
+</div>
 
 ---
 
-## ⚡ Frase
+<div align="center">
 
-> "Qualidade não é apenas encontrar bugs, é garantir confiança."
+## ⚔️ "Quality is not just testing, it's building confidence."
+
+</div>
