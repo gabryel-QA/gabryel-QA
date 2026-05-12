@@ -88,11 +88,7 @@ Instituto Federal da Paraíba (IFPB)
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabryel-QA&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabryel-QA&layout=compact&theme=github_dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=gabryel-QA&theme=github-dark-blue&hide_border=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grabryel-QA)](https://github.com/gabryel-QA/github-readme-stats)
 
 ---
 
