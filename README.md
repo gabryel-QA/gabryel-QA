@@ -37,10 +37,6 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
-
 ![Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=radical&hide_border=true&background=0D1117)
 
 </div>
