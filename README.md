@@ -86,6 +86,18 @@ Instituto Federal da Paraíba (IFPB)
 
 ---
 
+## 📊 GitHub Stats
+
+> ⚠️ Troque `SEU_USUARIO` pelo seu usuário do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabryel-QA&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabryel-QA&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=gabryel-QA&theme=tokyonight)
+
+---
+
 ## ⚡ Frase
 
 > "Qualidade não é apenas encontrar bugs, é garantir confiança."
