@@ -10,18 +10,18 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake animation
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: gabryel-QA
           outputs: |
-            dist/snake.svg?palette=github-dark&color_snake=ff00ff&color_dots=#00ffff,#ff00ff,#8a2be2,#39ff14
+            dist/snake-dark.svg?palette=github-dark
 
-      - name: Push snake animation
+      - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
