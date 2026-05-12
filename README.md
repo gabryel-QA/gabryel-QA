@@ -61,6 +61,8 @@
 
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gabryel-QA/gabryel-QA/output/snake.svg" alt="Snake animation" />
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/gabryel-QA/gabryel-QA/output/snake-dark.svg" alt="Snake animation" />
+
+</div>
