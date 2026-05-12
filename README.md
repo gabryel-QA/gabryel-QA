@@ -60,3 +60,12 @@
 ## ⚔️ "Quality is not just testing, it's building confidence."
 
 </div>
+
+# 🐍 Snake Animation
+
+## Adicione isso no final do seu README:
+
+```html
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/snake.svg" alt="Snake animation" />
+</p>
